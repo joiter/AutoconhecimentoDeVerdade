@@ -1462,8 +1462,8 @@ body {
   text-align: left;
 }
 .cid-rD3p3iKPMF {
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background: #ffffff;
 }
 .cid-rD3p3iKPMF .images-container.container-fluid {
@@ -1692,6 +1692,9 @@ body {
 }
 .cid-ryBQpj5r8S .col-right {
   color: #ff7f9f;
+  text-align: center;
+}
+.cid-ryBQpj5r8S .card-title {
   text-align: center;
 }
 .cid-ryCckoU4aY {
